@@ -1,0 +1,8 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  
+<item android:id="@+id/retour" 
+     android:title="retour"
+     android:icon="@android:drawable/stat_sys_phone_call_on_hold" />
+</menu>
+				
